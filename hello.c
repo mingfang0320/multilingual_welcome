@@ -2,4 +2,6 @@
 void main(void)
 {
 	printf("Hello\n");
+	printf("nihao\n");
+
 }
